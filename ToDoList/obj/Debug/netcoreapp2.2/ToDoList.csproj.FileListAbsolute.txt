@@ -1,0 +1,9 @@
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp2.2\ToDoList.deps.json
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp2.2\ToDoList.dll
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\bin\Debug\netcoreapp2.2\ToDoList.pdb
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.csprojAssemblyReference.cache
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.AssemblyInfoInputs.cache
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.AssemblyInfo.cs
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.dll
+C:\Users\mwakr\Desktop\csharp-to-do-list-example\ToDoList\obj\Debug\netcoreapp2.2\ToDoList.pdb
